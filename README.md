@@ -3,8 +3,7 @@
 
 ## User story
 
-### As a Developer, I WANT to create and deploy a portfolio of work samples that is appealing to employers,
-### with the purpose of attracting opportunities for employment. 
+### As a Developer, I WANT to create and deploy a portfolio of work samples that is appealing to employers with the purpose of attracting opportunities for employment. 
 
 
 ## Acceptance Criteria
@@ -24,19 +23,19 @@
 #### WHEN you click on the image of Horiseon
 #### You get redirected to that deployed application
 #### I toggled and played with the page in order to resize the view of the site on various screens and devices
-#### to get a responsive layout that adapts to my viewport
+#### to get a responsive layout that adapts to my viewport.
+ 
 
-### As I advance my knowledge of this field in time this Portfolio will be Updated and Readjusted and Reconfigured.
+## As I advance my knowledge of this field in time this Portfolio will be Updated and Readjusted and Reconfigured.
 
 ### Below is a link that will take you directly to My Portfolio through the browser 
 
 http://127.0.0.1:5500/Passion.Purpose.Progress/index.html
 
  
-
-Screenshot (7).png 
-Screenshot (6).png 
-Screenshot (3).png 
-Screenshot (2).png
-Screenshot (1).png 
-Screenshot (8).png
+<img src="./assets/images/screenshot (1).png">
+<img src="./assets/images/screenshot (2).png">
+<img src="./assets/images/screenshot (3).png">
+<img src="./assets/images/screenshot (6).png">
+<img src="./aseets/images/screenshot (7).png">
+<img src="./assets/images/screenshot (8).png">
