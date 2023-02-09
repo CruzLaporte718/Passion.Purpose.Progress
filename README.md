@@ -33,9 +33,9 @@
 https://cruzlaporte718.github.io/Passion.Purpose.Progress/
 
  
-<img src="./assets/images/screenshot (1).png">
-<img src="./assets/images/screenshot (2).png">
-<img src="./assets/images/screenshot (3).png">
-<img src="./assets/images/screenshot (6).png">
-<img src="./aseets/images/screenshot (7).png">
-<img src="./assets/images/screenshot (8).png">
+<img src="./assets/images/Screenshot (1).png">
+<img src="./assets/images/Screenshot (2).png">
+<img src="./assets/images/Screenshot (3).png">
+<img src="./assets/images/Screenshot (6).png">
+<img src="./aseets/images/Screenshot (7).png">
+<img src="./assets/images/Screenshot (8).png">
