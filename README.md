@@ -30,7 +30,7 @@
 
 ### Below is a link that will take you directly to My Portfolio through the browser 
 
-http://127.0.0.1:5500/Passion.Purpose.Progress/index.html
+https://cruzlaporte718.github.io/Passion.Purpose.Progress/
 
  
 <img src="./assets/images/screenshot (1).png">
